@@ -1,0 +1,14 @@
+C:\Users\Kaizen101\source\repos\Multiplo de constantesCJS\bin\Debug\Multiplo de constantesCJS.exe.config
+C:\Users\Kaizen101\source\repos\Multiplo de constantesCJS\bin\Debug\Multiplo de constantesCJS.exe
+C:\Users\Kaizen101\source\repos\Multiplo de constantesCJS\bin\Debug\Multiplo de constantesCJS.pdb
+C:\Users\Kaizen101\source\repos\Multiplo de constantesCJS\obj\Debug\Multiplo de constantesCJS.csprojAssemblyReference.cache
+C:\Users\Kaizen101\source\repos\Multiplo de constantesCJS\obj\Debug\Multiplo de constantesCJS.csproj.CoreCompileInputs.cache
+C:\Users\Kaizen101\source\repos\Multiplo de constantesCJS\obj\Debug\Multiplo de constantesCJS.exe
+C:\Users\Kaizen101\source\repos\Multiplo de constantesCJS\obj\Debug\Multiplo de constantesCJS.pdb
+C:\Users\white\Desktop\Ropositorios Programming\Multiplo de constantesCJS\bin\Debug\Multiplo de constantesCJS.exe.config
+C:\Users\white\Desktop\Ropositorios Programming\Multiplo de constantesCJS\bin\Debug\Multiplo de constantesCJS.exe
+C:\Users\white\Desktop\Ropositorios Programming\Multiplo de constantesCJS\bin\Debug\Multiplo de constantesCJS.pdb
+C:\Users\white\Desktop\Ropositorios Programming\Multiplo de constantesCJS\obj\Debug\Multiplo de constantesCJS.csprojAssemblyReference.cache
+C:\Users\white\Desktop\Ropositorios Programming\Multiplo de constantesCJS\obj\Debug\Multiplo de constantesCJS.csproj.CoreCompileInputs.cache
+C:\Users\white\Desktop\Ropositorios Programming\Multiplo de constantesCJS\obj\Debug\Multiplo de constantesCJS.exe
+C:\Users\white\Desktop\Ropositorios Programming\Multiplo de constantesCJS\obj\Debug\Multiplo de constantesCJS.pdb
